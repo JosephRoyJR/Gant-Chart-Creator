@@ -48,3 +48,30 @@ Install the required R packages:
 
 ```r
 install.packages(c("shiny", "ggplot2", "dplyr", "lubridate", "readr", "RColorBrewer"))
+
+
+```r
+install.packages(c("shiny", "ggplot2", "dplyr", "lubridate", "readr", "RColorBrewer"))
+Run the App
+Clone the repository and run the app in R:
+
+r
+Copy
+Edit
+shiny::runApp("path_to_app_folder")
+Or, simply open app.R in RStudio and click Run App.
+
+📤 Output
+The generated Gantt chart is:
+
+High-resolution (PNG format)
+
+White background for compatibility with reports/presentations
+
+Suitable for both screen and print
+
+✍️ Author
+Created by Joseph Roy, 2025
+PhD in Eco-psychology | Bangor University
+
+This app was vibe coded
