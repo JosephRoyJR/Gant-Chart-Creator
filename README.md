@@ -1,6 +1,8 @@
 # Gant Chart Creator
 A simple gantt chart generator from csv
 
+Access online here- https://kgez64-joseph-roy.shinyapps.io/simple_year_coloured_gantt_chart/
+
 
 # 📊 Interactive Gantt Chart Generator (Shiny App)
 
@@ -46,19 +48,14 @@ You can color tasks by either the values in `Group` or automatically by `Year`.
 
 Install the required R packages:
 
-```r
 install.packages(c("shiny", "ggplot2", "dplyr", "lubridate", "readr", "RColorBrewer"))
 
 
-```r
 install.packages(c("shiny", "ggplot2", "dplyr", "lubridate", "readr", "RColorBrewer"))
+
 Run the App
-Clone the repository and run the app in R:
+Clone the repository and run the app in R: file- app.r
 
-r
-Copy
-Edit
-shiny::runApp("path_to_app_folder")
 Or, simply open app.R in RStudio and click Run App.
 
 📤 Output
