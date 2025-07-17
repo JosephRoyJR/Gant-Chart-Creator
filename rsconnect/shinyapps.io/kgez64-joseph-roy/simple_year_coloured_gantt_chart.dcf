@@ -1,0 +1,13 @@
+name: simple_year_coloured_gantt_chart
+title: simple_year_coloured_gantt_chart
+username: kgez64-joseph-roy
+account: kgez64-joseph-roy
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 15090321
+bundleId: 10632915
+url: https://kgez64-joseph-roy.shinyapps.io/simple_year_coloured_gantt_chart/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData|gantt_phd.csv|gantt_phd.R|gantt_phd.xlsx|progress scripts/app0.R|progress scripts/app1.R|progress scripts/app2.R|progress scripts/app3.R
